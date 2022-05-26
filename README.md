@@ -1,4 +1,4 @@
-### Hi. I'm Jakob Karolus.[<img alt="orcid" width="24" src="/orcid.png" />](https://orcid.org/0000-0002-0698-7470)
+### Hi. I'm Jakob Karolus.[<img alt="orcid" width="20" src="/orcid.png" />](https://orcid.org/0000-0002-0698-7470)
 
 <!--
 **jkarolus/jkarolus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a researcher at the [Human-Centered Ubiquitous Media group](http://www.en.um.informatik.uni-muenchen.de/index.html) at the [Institute of Informatics](https://www.ifi.lmu.de/front-page-en?set_language=en) at the [LMU Munich](https://www.lmu.de/en/index.html). My research focuses on establishing guidelines and techniques for Proficiency-Aware Systems based on Ubiquitous Sensing Technologies. You can find publications, videos and talks on my [personal webpage](https://jakob-karolus.de/).
+I am a researcher at the [Human-Centered Ubiquitous Media group](http://www.en.um.informatik.uni-muenchen.de/index.html) at the [Institute of Informatics](https://www.ifi.lmu.de/front-page-en?set_language=en) at the [LMU Munich](https://www.lmu.de/en/index.html). My research focuses on establishing guidelines and techniques for [Proficiency-Aware Systems](https://doi.org/10.5282/edoc.28900) based on Ubiquitous Sensing Technologies. You can find publications, videos and talks on my [personal webpage](https://jakob-karolus.de/).
 
 For selected projects, source code and extensive documentation is available here on github:
 - [EMBody: A Data-Centric Toolkit for EMG-Based Interface Prototyping and Experimentation](https://github.com/HCUM/embody)
